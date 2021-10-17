@@ -20,6 +20,7 @@
   <img align="right" alt="dk-gg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="right" alt="dk-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="dk-vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="right" alt="dk-vsc" height="30" width="40" src="https://user-images.githubusercontent.com/91426768/135007617-6e07b888-4be7-4169-b3e6-5909c8630e1b.png">
     
   
 </div>
