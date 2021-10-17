@@ -1,12 +1,12 @@
 ### Hi, Olá 👋
 ##
-<!--
+
 - 🔭 Work with data analytics 
 - 🌱 Learning three differents languages 🤯
 - 💬 Talk, i help you, if i know how (hehe) 😉
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Dungeon Master
--->
+
 ##
 <div align="center">
   <a href="https://github.com/dkazov">
