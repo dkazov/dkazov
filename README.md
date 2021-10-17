@@ -1,11 +1,10 @@
 ### Eai, somos legião porque somos muitos...rs 👋
 
-
-- 🔭 Hoje trabalho com data analytics
-- 🌱 Aprendendo três linguagens diferentes (py, vba e SQL - aperfeiçoando)
-- 💬 Dá o papo sobre qualquer coisa, se eu souber te judar, estamos ai
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Mestre de RPG
+- 🔭 Work with data analytics 
+- 🌱 Learning three differents languages 🤯
+- 💬 Talk, i help you, if i know how (hehe) 😉
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: Dungeon Master
 
 <div align="center">
   <a href="https://github.com/dkazov">
@@ -28,6 +27,6 @@
   <a href = "mailto:dkazvo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardohsilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dkazov/dkazov/blob/output/github-contribution-grid-snake.svg)
  
 </div>
