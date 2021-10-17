@@ -1,15 +1,15 @@
 ### Hi, Olá 👋
-
+<!--
 - 🔭 Work with data analytics 
 - 🌱 Learning three differents languages 🤯
 - 💬 Talk, i help you, if i know how (hehe) 😉
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Dungeon Master
-
+-->
 <div align="center">
   <a href="https://github.com/dkazov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkazov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width ="505em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkazov&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkazov&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
