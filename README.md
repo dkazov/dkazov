@@ -10,19 +10,18 @@
 ##
 <div align="center">
   <a href="https://github.com/dkazov">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dkazov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkazov&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkazov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkazov&layout=compact&langs_count=5&theme=tokyonight"/>
+  
+  
 </div>
-  
   <div style="display: inline_block"><br>
-  <img align="right" alt="dk-msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="dk-sqlsvr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="right" alt="dk-gg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="right" alt="dk-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="dk-vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="dk-vsc" height="30" width="40" src="https://user-images.githubusercontent.com/91426768/135007617-6e07b888-4be7-4169-b3e6-5909c8630e1b.png">
-    
-  
+  <img align="center" alt="dk-msql" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="dk-sqlsvr" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="dk-gg" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="dk-py" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="dk-vsc" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="dk-vsc" height="20" width="30" src="https://user-images.githubusercontent.com/91426768/135007617-6e07b888-4be7-4169-b3e6-5909c8630e1b.png">  
 </div>
   
   ##
