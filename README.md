@@ -1,7 +1,7 @@
 ### Hi, Olá 👋
 ##
 
-- 🔭 Work with data analytics 
+- 🔭 Work with data engenieer 
 - 🌱 Learning three differents languages 🤯
 - 💬 Talk, i help you, if i know how (hehe) 😉
 - 😄 Pronouns: he/his
