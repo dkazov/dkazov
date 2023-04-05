@@ -9,11 +9,6 @@
 
 ##
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dkazov&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkazov&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=.)
-
 <div align="center">
   <a href="https://github.com/dkazov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkazov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
