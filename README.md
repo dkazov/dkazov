@@ -10,9 +10,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/dkazov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkazov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkazov&layout=compact&langs_count=5&theme=tokyonight"/>
+<!--   <a href="https://github.com/dkazov"> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkazov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkazov&layout=compact&langs_count=5&theme=tokyonight"/> -->
   
   
 </div>
@@ -33,6 +33,6 @@
   <a href = "https://www.linkedin.com/in/leonardohsilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/dkazov/dkazov/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/dkazov/dkazov/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
